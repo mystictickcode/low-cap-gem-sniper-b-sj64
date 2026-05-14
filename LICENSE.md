@@ -1,4 +1,4 @@
-# 
+# AI-powered Flash Loan Bot for low cap gem sniper bot | trailing-stop & MEV-detection offers the most advanced low cap gem sniper bot, with trailing-stop and MEV-detection. Ideal
 
 
 
